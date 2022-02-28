@@ -1,0 +1,4 @@
+Hello !
+Example of StreamReader
+This file is going to be read by Stream Reader Class.
+Thank You.
